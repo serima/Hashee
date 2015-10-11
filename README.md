@@ -72,6 +72,7 @@ hashee:   0.0097849369049072
 ## Thanks
 
 Hashee is inspired by this entry written by [@mtdowling](https://github.com/mtdowling).
+
 [Favor Hash Lookups Over Array Searches](http://mtdowling.com/blog/2014/03/17/hash-lookups-over-array-search/)
 
 I coded benchmark script using example from it.
