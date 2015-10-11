@@ -16,7 +16,9 @@ class Hashee
 
     /**
      * Add values in bulk as hash
+     *
      * @param array $values
+     * @return void
      */
     public static function addBulk(array &$values)
     {
@@ -29,6 +31,7 @@ class Hashee
      *
      * @param $array
      * @param $value
+     * @return void
      */
     public static function delete(array &$array, $value)
     {
@@ -40,6 +43,7 @@ class Hashee
      *
      * @param array $array
      * @param array $values
+     * @return void
      */
     public static function deleteBulk(array &$array, array $values)
     {
@@ -66,6 +70,7 @@ class Hashee
      * Unset a hash
      *
      * @param array $array
+     * @return void
      */
     public static function release(array &$array)
     {
