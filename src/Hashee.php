@@ -3,7 +3,7 @@
 class Hashee
 {
     /**
-     * Add a value as a hash
+     * Add a value as hash
      *
      * @param array $array
      * @param $value
