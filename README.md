@@ -80,3 +80,7 @@ I coded benchmark script using example from it.
 ## References
 
 http://stackoverflow.com/questions/2473989/list-of-big-o-for-php-functions
+
+## LICENSE
+
+MIT License.
