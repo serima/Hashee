@@ -14,7 +14,7 @@ class Benchmark
         $words = explode(' ', $paragraph);
 
         // Create a bunch of letter entries
-        $sequence = [];
+        $sequence = array();
         for ($j = 0; $j < $elementNumber; $j++) {
             $sequence[] = 'a' . $j;
         }
