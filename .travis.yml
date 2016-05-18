@@ -10,6 +10,8 @@ php:
 
 before_script:
   - composer self-update
-  - composer install --prefer-source --no-interaction --dev
+  - composer install --prefer-source --no-interaction
 
 script: phpunit
+
+after_success: php tests/Benchmark.php
