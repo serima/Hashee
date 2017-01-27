@@ -39,6 +39,8 @@ Hashee::release($bannedUserNames);
 ## Benchmark
 
 You can see the benchmark script in `tests/Benchmark.php`
+Graphical here.
+https://docs.google.com/spreadsheets/d/11zw--aiHH33umh86y_ctiEx87XTsUIK7YMHqctZ_FzM/edit?usp=sharing
 
 ```
 % php tests/Benchmark.php
